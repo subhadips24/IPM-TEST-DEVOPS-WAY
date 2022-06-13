@@ -11,8 +11,8 @@
 	<groupId>com.ipm</groupId>
 	<artifactId>imp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name></name>
-	<descrinsurence-policy-managementiption>REST API FOR Insurence Policy Management.....</descrinsurence-policy-managementiption>
+	<name>insurence-policy-management</name>
+
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
